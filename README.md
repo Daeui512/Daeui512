@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daeui512&" alt="daeui512" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daeui512)](https://github.com/anuraghazra/github-readme-stats)
